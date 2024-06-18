@@ -1,0 +1,293 @@
+ID,Name Zeitung,Datum,Wörteranzahl,Verhältnis Abbildung/Text,Cover,Darstellungsform Artikel,Geschwärzt,Autoren,Hauptthema/Hypothese,Wertung Bilder,Konnotation der Überschrift,Konnotation des Artikels,Schreibstil des Artikels,Emotionalität des Artikels,Superlative,Metaebene,Link
+1.1,Bunte,02.11.2023,226,1,2,1,2,Bunte.de Redaktion,1,0,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-auf-dem-rad-ist-sie-nicht-zu-bremsen.html
+1.2,Bunte,04.11.2023,440,1,2,1,2,Natascha Wittmann,1,0,2,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wer-bist-du-ihre-antwort-sagt-viel-ueber-sie-aus.html
+1.3,Bunte,06.11.2023,315,1,2,1,2,Matthis Sell,1,0,1,1,2,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-beweist-sich-beim-drachenbootrennen-in-singapur-als-naturtalent.html
+1.4,Bunte,07.11.2023,381,2,2,2,2,Romy Holz,2,0,3,3,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-eltern-gehen-in-rente-um-neues-fiasko-zu-vermeiden.html
+1.5,Bunte,07.11.2023,348,1,2,1,2,Alisa Röckener,1,0,2,2,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-verraet-das-eiskalte-geheimnis-ihrer-figur.html
+1.6,Bunte,07.11.2023,652,2,2,2,2,Bunte.de Redaktion,1,0,2,2,1,1,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-staraufgebot-bei-den-earthshot-prize-awards-in-singapur.html
+1.7,Bunte,08.11.2023,246,3,2,1,2,Matthis Sell,1,0,2,2,1,1,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-ist-in-ihrer-armee-kluft-kaum-zu-erkennen.html
+1.8,Bunte,09.11.2023,429,1,2,1,2,Melanie Althoff,2,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-will-bei-arbeit-der-koenigsfamilie-einen-schritt-weiter-gehen.html
+1.9,Bunte,12.11.2023,285,3,2,1,2,Alexa Stark,1,0,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/beim-rememberence-day-ehrt-prinzessin-kate-queen-elizabeth-ii-mit-einem-besonderen-accessoire.html
+1.10,Bunte,14.11.2023,503,1,2,1,2,Bunte.de Redaktion,1,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-auf-den-bahamas-zeigen-sie-ihr-tauch-talent.html
+1.11,Bunte,15.11.2023,512,2,2,2,2,Bunte.de Redaktion,1,0,1,1,1,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-setzt-sie-sich-fuer-eine-gesuendere-welt-ein.html
+1.12,Bunte,16.11.2023,316,1,2,1,2,Bunte.de Redaktion,2,0,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/schmuck-mit-geschichte-prinzessin-kate-traegt-prinzessin-dianas-ohrringe.html
+1.13,Bunte,17.11.2023,1023,2,2,2,2,Bunte.de Redaktion,1,0,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/wie-romantisch-so-entfachte-ein-kleid-kate-williams-liebe.html
+1.14,Bunte,18.11.2023,427,2,2,1,2,Natascha Wittmann,1,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-bewegender-auftritt-fuer-ihre-herzensangelegenheit.html
+1.15,Bunte,18.11.2023,313,1,2,1,2,Bunte.de Redaktion,2,0,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-darum-ist-sie-stolz-auf-prinz-louis.html
+1.16,Bunte,19.11.2023,277,1,2,1,2,dpa,1,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-an-heiligabend-ist-sie-im-britischen-tv-zu-sehen.html
+1.17,Bunte,22.11.2023,382,2,2,1,2,Bunte.de Redaktion,1,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-ihre-tiara-hat-man-seit-ueber-90-jahren-nicht-gesehen.html
+1.18,Bunte,22.11.2023,237,1,2,1,2,Bunte.de Redaktion,1,0,2,3,2,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-william-glamouroese-einblicke-ins-staatsbankett.html
+1.19,Bunte,23.11.2023,368,1,2,1,2,Bunte.de Redaktion,2,0,3,3,3,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-weihnachtsgeschenke-fuer-harrys-kinder.html
+1.20,Bunte,23.11.2023,324,3,2,1,2,Romy Holz,2,0,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-und-william-treffen-schon-bald-auf-victoria-und-daniel-von-schweden.html
+1.21,Bunte,23.11.2023,375,1,2,3,2,Bunte.de Redaktion,3,0,3,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-im-roten-cape-mantel-von-welcher-koenigin-sie-da-abgeguckt-hat.html
+1.22,Bunte,24.11.2023,462,2,2,1,2,Bunte.de Redaktion,1,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-fuellt-regale-mit-weihnachtsgeschenken-fuer-kinder.html
+1.23,Bunte,25.11.2023,474,2,2,1,2,Natascha Wittmann,3,0,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-herzogin-meghan-neue-details-ueber-das-treffen-der-fab-four.html
+1.24,Bunte,25.11.2023,343,1,2,1,2,Bunte.de Redaktion,2,0,3,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-co-klare-regeln-zu-weihnachten-das-duerfen-die-royals-nicht.html
+1.25,Bunte,25.11.2023,595,2,2,1,2,Bunte.de Redaktion,3,0,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/eiszeit-zwischen-prinzessin-kate-meghan-so-bitter-ist-die-realitaet.html
+1.26,Bunte,26.11.2023,748,2,2,1,2,Bunte.de Redaktion,2,0,3,3,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-williams-kates-angestellte-muessen-sich-an-dresscode-halten.html
+1.27,Bunte,26.11.2023,676,2,2,1,2,Bunte.de Redaktion,2,0,3,3,2,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-messlate-ist-niedriger-so-meghans-biograf.html
+1.28,Bunte,27.11.2023,494,2,2,1,2,Abendzeitung,3,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-mehr-privatsphaere-im-adelaide-cottage.html
+1.29,Bunte,27.11.2023,629,1,2,1,2,Natascha Wittmann,1,0,2,3,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/herzogin-meghan-prinzessin-kate-warum-sie-sich-wie-diana-anziehen-sollten.html
+1.30,Bunte,28.11.2023,900,2,2,2,2,Bunte.de Redaktion,2,0,3,3,3,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-iii-die-groessten-aufreger-aus-neuem-enthuellungsbuch.html
+1.31,Bunte,28.11.2023,475,2,2,1,2,Romy Holz,3,0,3,3,3,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/insider-enthuellt-prinzessin-kates-palast-spitznamen.html
+1.32,Bunte,30.11.2023,712,2,2,2,2,Larissa Jerger,2,0,3,2,3,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-prinzessin-kate-nach-rassismus-skandal-verzweifelt.html
+1.33,Bunte,30.11.2023,454,1,2,1,2,Romy Holz,1,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kein-eton-george-soll-auf-ihre-ehemalige-schule-gehen.html
+1.34,Bunte,01.12.2023,619,2,2,1,2,Talea de Freese,1,0,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-glamour-auftritt-sie-laechelt-krise-einfach-weg.html
+1.35,Bunte,01.12.2023,552,1,2,1,2,Larissa Jerger,1,0,1,1,1,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-fans-bleiben-trotz-rassismus-skandal-treu.html
+1.36,Bunte,04.12.2023,293,1,2,1,2,Bunte.de Redaktion,1,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-kleid-kopiert-von-der-frau-des-britischen-premiers.html
+1.37,Bunte,05.12.2023,638,2,2,1,2,Romy Holz,2,0,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/hinter-den-kulissen-knallte-es-gewaltig-zwischen-kate-und-meghan.html
+1.38,Bunte,05.12.2023,408,1,2,1,2,Romy Holz,1,0,2,2,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-besuchte-heimlich-lets-dance-pendant-mit-ihren-kids.html
+1.39,Bunte,05.12.2023,330,1,2,1,2,Bunte.de Redaktion,1,0,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/bei-einem-ruehrenden-termin-ehrt-prinzessin-kate-diana-gleich-doppelt.html
+1.40,Bunte,05.12.2023,506,2,2,1,2,Talea de Freese,1,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-seite-an-seite-mit-charles-camilla.html
+1.41,Bunte,07.12.2023,445,1,2,1,2,Natascha Wittmann,1,0,2,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kleines-detail-mit-grosser-bedeutung.html
+1.42,Bunte,08.12.2023,413,1,2,1,2,Bunte.de Redaktion,1,0,1,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-hier-versetzt-sie-die-briten-in-weihnachtliche-vorfreude.html
+1.43,Bunte,08.12.2023,336,1,2,1,2,Bunte.de Redaktion,1,0,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-will-wie-eine-schwester-fuer-tochter-charlotte-sein.html
+1.44,Bunte,08.12.2023,416,1,2,1,2,Talea de Freese,1,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-nimmt-louis-zum-ersten-mal-zum-weihnachtskonzert-mit.html
+1.45,Bunte,10.12.2023,776,2,2,2,2,Bunte.de Redaktion,1,0,3,3,2,3,2,0,https://www.bunte.de/royals/prinz-william-und-prinzessin-kate-veroeffentlichen-ihre-weihnachtskarte.html
+1.46,Bunte,11.12.2023,308,1,2,1,2,Bunte.de Redaktion,1,0,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wird-fuer-wohltaetigkeits-organisation-zum-weihnachts-engel.html
+1.47,Bunte,14.12.2023,630,2,2,1,2,Larissa Jerger,2,0,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-warum-sie-sich-schaemen-sollten.html
+1.48,Bunte,15.12.2023,802,2,2,2,2,Bunte.de Redaktion,1,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-camilla-co-so-lustig-geht-es-weihnachten-auf-sandringham-zu.html
+1.49,Bunte,15.12.2023,823,2,2,2,2,Bunte.de Redaktion,1,0,2,2,1,1,2,0,https://www.bunte.de/entertainment/serien/william-kate-wie-echt-ist-ihre-liebesgeschichte-in-the-crown.html
+1.50,Bunte,15.12.2023,381,1,2,1,2,Leonie Winstermann,1,0,3,2,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-und-prinzessin-kate-fruehstuecken-an-weihnachten-getrennt.html
+1.51,Bunte,18.12.2023,452,2,2,1,2,Bunte.de Redaktion,1,0,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/alternative-zu-eton-prinz-george-besichtigt-andere-schule-mit-kate-und-william.html
+1.52,Bunte,18.12.2023,417,2,2,1,2,Bunte.de Redaktion,2,0,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-in-tv-show-lachen-sie-traenen.html
+1.53,Bunte,18.12.2023,345,1,2,1,2,Matthis Sell,1,0,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-begeistert-in-weihnachtlicher-zeitreise-mit-throwback-foto.html
+1.54,Bunte,19.12.2023,376,1,2,1,2,Matthis Sell,1,0,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/herzogin-kate-herzogin-meghan-warum-sich-die-royal-damen-nie-verstanden-haben.html
+1.55,Bunte,20.12.2023,363,1,2,1,2,Romy Holz,3,0,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ehemaliger-butler-plaudert-ueber-kates-und-williams-alkohol-konsum.html
+1.56,Bunte,20.12.2023,517,2,2,1,2,Bunte.de Redaktion,1,0,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ploetzlich-tauchte-prinzessin-kate-in-dokuserie-auf.html
+1.57,Bunte,21.12.2023,459,1,2,1,2,Larissa Jerger,1,0,2,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-ex-butler-entschluesselt-liebes-geheimnis.html
+1.58,Bunte,21.12.2023,384,1,2,1,2,Lisa-Marie Feibig,1,0,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-brachte-prinz-harry-mit-weihnachtsgeschenk-in-verlegenheit.html
+1.59,Bunte,23.12.2023,383,1,2,1,2,Cathrin Keller,2,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ein-kleid-vier-farben-prinzessin-kates-lieblingsteil-kostet-schlappe-1568-euro.html
+2.1,Bunte,25.12.2023,182,3,1,2,2,Romy Holz,,1,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-posten-weihnachtliche-gruesse-ihrer-drei-kids.html
+2.2,Bunte,26.12.2023,506,2,2,2,2,Larissa Jerger,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-offenbart-in-weihnachtsrede-wer-fuer-ihn-der-teil-royal-family-ist.html
+2.3,Bunte,26.12.2023,309,1,1,2,2,Bunte.de Redaktion,,1,1,1,1,1,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wie-sie-prinzessin-diana-36-an-weihnachten-ehrt.html
+2.4,Bunte,26.12.2023,269,1,1,3,2,Cathrin Keller,,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-darin-aehnelt-sie-kaiserin-sisi.html
+2.5,Bunte,27.12.2023,283,1,1,2,2,Bunte.de Redaktion,,1,1,1,1,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-laesst-das-drama-um-meghan-und-harry-endlich-hinter-sich.html
+2.6,Bunte,28.12.2023,286,1,1,2,2,Melanie Althoff,,1,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-gab-2023-20000-euro-weniger-fuer-kleidung-aus.html
+2.7,Bunte,29.12.2023,450,2,1,2,2,Bunte.de Redaktion,,1,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-kate-middleton-hochzeit-und-italien-reise-ihre-plaene-fuer-2024.html
+2.8,Bunte,30.12.2023,363,2,1,2,2,Leonie Kruse,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-ihr-emotionaler-jahresrueckblick-2023.html
+2.9,Bunte,30.12.2023,1054,2,1,4,2,Schweizer Illustrierte,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-begeistert-herzogin-meghan-polarisiert.html
+2.10,Bunte,4.1.2024,164,3,1,2,2,Julia Todorinc,,2,3,2,2,3,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kein-scherz-so-viel-gibt-williams-frau-fuer-klamotten-aus.html
+2.11,Bunte,6.1.2024,518,2,1,2,2,Bunte.de Redaktion,,1,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-plant-koenig-charles-ihre-befoerderung.html
+2.12,Bunte,7.1.2024,429,1,1,2,2,Bunte.de Redaktion,,1,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-das-waren-ihre-lieblingsohrringe-2023.html
+2.13,Bunte,8.1.2024,507,2,1,3,2,Larissa Jerger,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-bei-erziehungsfragen-kracht-es.html
+2.14,Bunte,9.1.2024,190,3,1,3,2,Cathrin Keller,,1,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wird-42-was-sie-zum-typischen-steinbock-macht.html
+2.15,Bunte,9.1.2024,228,3,1,2,2,Bunte.de Redaktion,,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/18-ueberraschende-fakten-zum-geburtstag-von-prinzessin-kate.html
+2.16,Bunte,9.1.2024,328,1,1,2,2,Larissa Jerger,,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wird-42-koenig-charles-versteckte-glueckwunsch-botschaft.html
+2.17,Bunte,11.1.2024,186,3,2,2,2,Matthis Sell,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-williams-bittersuesser-tag-feier-trauer-am-geburtstag-von-prinzessin-kate.html
+2.18,Bunte,12.1.2024,626,2,1,4,2,Spot On News,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-ihr-onkel-bezeichnet-the-crown-als-laecherlich.html
+2.19,Bunte,17.1.2024,486,2,1,2,2,Larissa Jerger,8,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-nach-bestandener-op-sie-liegt-im-krankenhaus.html
+2.20,Bunte,18.1.2024,321,1,2,2,2,Jennifer Nowak,8,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-feinster-luxus-hier-erholt-sie-sich-nach-ihrer-schweren-op.html
+2.21,Bunte,18.1.2024,696,2,1,2,2,Larissa Jerger,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-koenig-charles-sorge-um-die-krone.html
+2.22,Bunte,18.1.2024,420,1,2,2,2,Talea de Freese,8,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-iii-muss-ins-krankenhaus-kurz-nach-kate.html
+2.23,Bunte,18.1.2024,348,1,1,2,2,Spot On News,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/nach-bauch-op-so-ist-prinz-william-kates-fels-in-der-brandung.html
+2.24,Bunte,18.1.2024,281,1,1,2,2,Bunte.de Redaktion,8,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-besucht-seine-frau-erneut-in-der-klinik.html
+2.25,Bunte,19.1.2024,433,1,2,3,2,Natascha Wittmann,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-er-hat-harry-die-kritik-an-kate-bis-heute-nicht-verziehen.html
+2.26,Bunte,19.1.2024,417,2,2,2,2,Bunte.de Redaktion,8,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-harry-ende-der-eiszeit-ruft-er-jetzt-charles-und-kate-an.html
+2.27,Bunte,19.1.2024,299,1,1,2,2,Spot On News,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-harry-sorge-um-charles-kate-erfuhr-er-es-aus-der-presse.html
+2.28,Bunte,19.1.2024,357,1,1,2,2,Spot On News,,1,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-so-stellt-sich-ihre-familie-auf-die-kommende-zeit-ein.html
+2.29,Bunte,19.1.2024,484,2,1,3,2,Larissa Jerger,,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-william-liess-sich-kurz-vor-op-laut-reporterin-nichts-anmerken.html
+2.30,Bunte,21.1.2024,338,2,1,2,2,Spot On News,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-private-genesungswuensche-von-harry-meghan.html
+2.31,Bunte,22.1.2024,846,2,1,2,2,Kölner Express,,1,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/bei-prinz-william-herzogin-kate-nebenan-so-viel-kostet-eine-nacht.html
+2.32,Bunte,22.1.2024,306,1,1,2,2,Bunte.de Redaktion,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-will-vom-krankenbett-aus-arbeiten.html
+2.33,Bunte,23.1.2024,329,1,1,2,2,Franziska Serdarusic,,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/videoanrufe-mit-den-kids-sollen-prinzessin-kate-gegen-sehnsucht-helfen.html
+2.34,Bunte,24.1.2024,496,2,1,2,2,Bunte.de Redaktion,8,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-im-krankenhaus-adels-expertin-sorgt-sich-um-william.html
+2.35,Bunte,25.1.2024,394,1,1,2,2,Spot On News,,2,1,1,1,1,1,,https://www.bunte.de/royals/britisches-koenigshaus/-prinz-william-will-nicht-alles-der-nanny-ueberlassen.html
+2.36,Bunte,25.1.2024,282,1,1,2,2,Bunte.de Redaktion,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/warum-prinzessin-kate-ueber-grund-fuer-bauch-op-schweigt.html
+2.37,Bunte,26.1.2024,279,1,1,2,2,Melanie Althoff,,3,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-hielt-ihre-bauch-op-vor-ihren-liebsten-geheim.html
+2.38,Bunte,26.1.2024,447,2,1,2,2,Bunte.de Redaktion,,2,1,1,1,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-iii-er-ist-auf-dem-weg-zu-seiner-op.html
+2.39,Bunte,27.1.2024,389,2,1,2,2,Spot On News,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/kommt-prinzessin-kates-skandal-onkel-bald-ins-reality-tv.html
+2.40,Bunte,28.1.2024,224,3,1,2,2,Bunte.de Redaktion,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/warum-prinzessin-kate-selbst-im-krankenhaus-ihre-pflichten-nicht-vergisst.html
+2.41,Bunte,28.1.2024,309,1,2,2,2,Franziska Serdarusic,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-versucht-jeden-tag-an-kates-seite-zu-sein.html
+2.42,Bunte,29.1.2024,349,1,1,2,2,Natascha Wittmann,,2,2,1,1,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-insider-verraet-wie-es-wirklich-um-sie-steht.html
+2.43,Bunte,29.1.2024,415,2,1,2,2,Larissa Jerger,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kehrt-13-tage-nach-ihrer-bauch-op-nach-hause-zurueck.html
+2.44,Bunte,30.1.2024,642,2,1,2,2,Franziska Serdarusic,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/wie-prinzessin-kate-nach-ihrer-bauch-op-von-ihrer-familie-unterstuetzt-wird.html
+2.45,Bunte,30.1.2024,704,2,1,3,2,Spot On News,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/hier-erholt-sich-prinzessin-kate-von-ihrer-op.html
+2.46,Bunte,30.1.2024,319,1,1,2,2,Lisa-Marie Feibig,8,1,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-freut-sich-bald-wieder-ihren-pflichten-nachzukommen.html
+2.47,Bunte,2.2.2024,311,1,1,2,2,Bunte.de Redaktion,8,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-lag-laut-palast-nicht-im-koma.html
+2.48,Bunte,3.2.2024,459,2,2,2,2,Paula Kessler,,1,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-das-ist-ihre-persoenliche-assistentin.html
+2.49,Bunte,5.2.2024,297,1,1,2,2,Bunte.de Redaktion,8,1,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-kehrt-nach-kates-bauch-op-zurueck-in-die-oeffentlichkeit.html
+2.50,Bunte,6.2.2024,309,1,1,2,2,Romy Holz,,1,1,1,1,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-spendete-witwe-trost-obwohl-sie-selbst-in-klinik-lag.html
+2.51,Bunte,8.2.2024,278,1,1,3,2,Kölner Express,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-koenig-charles-ihr-arzt-ist-nicht-unumstritten.html
+2.52,Bunte,8.2.2024,364,1,1,2,2,Bunte.de Redaktion,8,1,1,1,1,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-ist-wieder-da-tapfer-geht-er-seinen-pflichten-nach.html
+2.53,Bunte,10.2.2024,212,3,1,1,2,Spot On News,,1,1,2,2,1,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-ist-laut-insider-auf-dem-weg-der-besserung.html
+2.54,Bunte,13.2.2024,382,1,1,2,2,Natascha Wittmann,,1,1,2,2,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wie-prinz-william-dafuer-sorgt-dass-sie-wieder-gesund-wird.html
+2.55,Bunte,13.2.2024,218,3,1,2,2,Maria Kolenda,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-setzen-in-der-erziehung-auf-klare-regeln.html
+2.56,Bunte,13.2.2024,682,2,1,4,2,Larissa Jerger,3,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sogar-fuer-paparazzi-unerreichbar.html
+2.57,Bunte,14.2.2024,365,1,1,3,2,Larissa Jerger,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-schwester-pippa-zeigt-ihre-traumfigur.html
+2.58,Bunte,18.2.2024,391,2,2,2,2,Spot On News,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-wird-die-baftas-ohne-prinzessin-kate-besuchen.html
+2.59,Bunte,23.2.2024,250,1,1,2,2,Leonie Winstermann,,1,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-hat-einen-neuen-vertrauten-an-ihrer-seite.html
+2.60,Bunte,29.2.2024,241,1,2,2,2,Spot On News,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/bei-prinz-williams-rueckkehr-nach-last-minute-absage-dreht-sich-alles-um-kate.html
+2.61,Bunte,4.3.2024,350,1,1,2,2,Melanie Althoff,,1,1,2,2,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/neue-jobs-fuer-kate-und-camilla-das-machen-sonst-nur-gebuertige-royals.html
+2.62,Bunte,4.3.2024,474,2,1,2,2,Melanie Althoff,3,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-onkel-bekam-von-den-middletons-die-leviten-gelesen.html
+2.63,Bunte,5.3.2024,364,2,1,2,2,Talea de Freese,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/erstes-foto-von-prinzessin-kate-nach-bauch-op-und-sie-wirkt-veraendert.html
+2.64,Bunte,5.3.2024,303,1,1,2,2,Jennifer Nowak,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-soll-prinzessin-kate-zu-telefonat-mit-meghan-gezwungen-haben.html
+2.65,Bunte,5.3.2024,329,1,1,2,2,Paula Kessler,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-erster-bestaetigter-termin-nach-op.html
+2.66,Bunte,5.3.2024,453,2,1,2,2,Leonie Kruse,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-skandal-onkel-macht-ihr-eine-liebeserklaerung.html
+2.67,Bunte,6.3.2024,288,1,2,2,1,Bunte Magazin,3,2,3,2,2,3,1,,https://www.bunte.de/royals/britisches-koenigshaus/das-ganze-drama-um-prinzessin-kate.html
+2.68,Bunte,6.3.2024,395,2,1,2,2,Spot On News,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/neuer-wirbel-um-prinzessin-kate-palast-aergert-sich-jetzt-sogar-ueber-die-armee.html
+2.69,Bunte,6.3.2024,416,2,1,2,2,Paulina Sternsdorf,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/warum-sich-die-palastmitarbeiter-um-prinzessin-kate-sorgen.html
+2.70,Bunte,6.3.2024,605,2,1,4,2,Melanie Althoff,3,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/wie-prinz-william-mit-den-spekulationen-um-prinzessin-kate-umgeht.html
+2.71,Bunte,7.3.2024,358,1,1,2,2,Natascha Wittmann,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-selbst-in-ihrer-schwersten-zeit-sieht-sie-das-gute.html
+2.72,Bunte,7.3.2024,387,2,1,2,2,Melanie Althoff,3,2,1,2,2,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/im-tv-macht-prinzessin-kates-onkel-hoffnung-sie-wird-zurueckkommen.html
+2.73,Bunte,9.3.2024,331,1,1,3,2,Larissa Jerger,,1,1,1,1,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sorgte-am-weltfrauentag-fuer-ueberraschung.html
+2.74,Bunte,10.3.2024,321,1,1,1,2,Vanessa Peschla,,1,1,2,2,1,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-erstes-offizielles-foto-nach-ihrer-op.html
+2.75,Bunte,10.3.2024,654,2,1,2,2,Larissa Jerger,10,1,1,2,2,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-botschaft-hinter-erstem-familienfoto-seit-83-tagen.html
+2.76,Bunte,11.3.2024,381,2,1,2,2,Julia Todorinc,10,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/ist-prinzessin-kates-foto-manipuliert-jetzt-ist-das-bild-geloescht.html
+2.77,Bunte,11.3.2024,393,2,1,2,2,Larissa Jerger,10,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-bezieht-stellung-nach-foto-skandal.html
+2.78,Bunte,11.3.2024,666,2,1,2,2,Larissa Jerger,10,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-photoshop-panne-sorgt-fuer-noch-mehr-skepsis.html
+2.79,Bunte,12.3.2024,664,2,1,2,2,Franziska Serdarusic,10,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/was-ein-digital-experte-ueber-prinzessin-kates-manipuliertes-foto-denkt.html
+2.80,Bunte,12.3.2024,363,1,1,2,2,Melanie Althoff,10,2,3,2,2,3,3,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-foto-panne-kein-fehler-den-meghan-machen-wuerde.html
+2.81,Bunte,12.3.2024,265,3,1,2,2,Romy Holz,10,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/piers-morgan-fordert-nach-kates-photoshop-panne-das-originalfoto.html
+2.82,Bunte,12.3.2024,293,3,1,2,2,Leonie Winstermann,10,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-soll-foto-retuschiert-haben-damit-ihre-kinder-gut-aussehen.html
+2.83,Bunte,12.3.2024,370,1,1,2,2,Leonie Kruse,10,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/benutzte-prinzessin-kate-ein-altes-vogue-cover-fuers-familienfoto.html
+2.84,Bunte,13.3.2024,331,1,1,2,2,Larissa Jerger,10,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-auftritt-an-williams-seite-macht-alles-nur-noch-mysterioeser.html
+2.85,Bunte,13.3.2024,519,2,1,2,2,Larissa Jerger,10,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/jetzt-spricht-der-fotograf-von-prinzessin-kates-auto-schnappschuss.html
+2.86,Bunte,14.3.2024,448,2,1,2,2,Paulina Sternsdorf,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/neue-details-zu-prinzessin-kates-op-royal-experte-soll-mehr-wissen.html
+2.87,Bunte,14.3.2024,259,3,1,2,2,Jennifer Nowak,10,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/tv-sender-unternimmt-nach-prinzessin-kates-foto-pfusch-drastische-massnahme.html
+2.88,Bunte,15.3.2024,262,1,1,2,2,Melanie Althoff,10,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-selbst-instagram-warnt-jetzt-vor-ihrem-photoshop-bild.html
+2.89,Bunte,15.3.2024,268,1,2,2,2,Marie Gollatz,10,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/hier-vergisst-prinz-william-den-foto-skandal-um-prinzessin-kate.html
+2.90,Bunte,18.3.2024,469,2,1,2,2,Larissa Jerger,,2,1,2,2,1,1,,https://www.bunte.de/royals/britisches-koenigshaus/queen-elizabeth-war-beeindruckt-von-kates-staerke.html
+2.91,Bunte,18.3.2024,583,2,1,2,2,Spot On News,,2,1,2,2,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-strahlendes-laecheln-beim-hofladen-besuch-mit-william.html
+2.92,Bunte,19.3.2024,1153,2,1,5,2,Melanie Althoff,,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-alle-infos-zu-prinz-williams-ehefrau.html
+2.93,Bunte,19.3.2024,457,2,1,2,2,Hannah Borchert,10,2,3,3,3,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/weitere-foto-manipulation-von-prinzessin-kate-aufgedeckt-die-queen-mittendrin.html
+2.94,Bunte,19.3.2024,351,1,1,2,2,Jennifer Nowak,,1,1,1,1,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-zeigt-auf-video-aus-windsor-enorme-energie.html
+2.95,Bunte,19.3.2024,600,2,1,5,2,Larissa Jerger,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/palast-sollte-in-prinzessin-kates-gesundheits-krimi-um-geduld-bitten.html
+2.96,Bunte,20.3.2024,313,1,1,3,2,Natascha Wittmann,,2,1,1,1,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinz-harry-er-sorgt-sich-um-kate-aber-glaubt-nicht-an-einen-skandal.html
+2.97,Bunte,20.3.2024,335,1,1,3,2,Paula Kessler,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-subtile-botschaft-beim-hofladen-besuch.html
+2.98,Bunte,20.3.2024,358,2,1,2,2,Romy Holz,,2,3,2,2,3,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-feund-platzt-der-kragen-und-gibt-dabei-ein-update-ueber-sie.html
+2.99,Bunte,20.3.2024,1046,2,1,2,2,Franziska Serdarusic,,2,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/trotz-prinzessin-kates-wochenend-ausflug-nehmen-verschwoerungstheorien-kein-ende.html
+2.100,Bunte,20.3.2024,740,2,1,2,2,dpa,,2,3,2,2,3,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-ausfall-bringt-die-krone-ins-wanken.html
+2.101,Bunte,20.3.2024,507,2,1,2,2,Natascha Wittmann,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-klinik-mitarbeiter-wollte-auf-ihre-krankenakte-zugreifen.html
+2.102,Bunte,20.3.2024,428,2,1,2,2,Larissa Jerger,,2,2,3,3,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/medien-psychologin-erklaert-verschwoerungstheorien-um-prinzessin-kate.html
+2.103,Bunte,21.3.2024,315,1,1,2,2,Romy Holz,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/erpressungskomplott-um-prinzessin-kates-krankenakte-befuerchtet.html
+2.104,Bunte,21.3.2024,239,3,1,2,2,Leonie Winstermann,,1,1,1,1,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kehrt-heimlich-zu-ihren-koeniglichen-pflichten-zurueck.html
+2.105,Bunte,22.3.2024,377,1,1,2,2,Leonie Winstermann,,2,2,2,2,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/spekulationen-um-prinzessin-kates-gesundheit-werden-zur-kirchen-sache.html
+2.106,Bunte,22.3.2024,424,2,1,2,2,Talea de Freese,,2,1,2,2,1,2,,https://www.bunte.de/royals/britisches-koenigshaus/so-ruehrend-erklaerte-prinzessin-kate-ihren-kindern-dass-sie-krebs-hat.html
+2.107,Bunte,22.3.2024,211,3,1,1,2,Melanie Althoff,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/warum-bei-prinzessin-kate-der-palast-krebsbefuerchtungen-zunaechst-dementierte.html
+2.108,Bunte,22.3.2024,439,2,1,2,2,Talea de Freese,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-emotionale-videobotschaft-sie-hat-krebs.html
+2.109,Bunte,22.3.2024,242,3,1,2,2,Melanie Althoff,,2,1,2,2,1,1,,https://www.bunte.de/royals/britisches-koenigshaus/erste-worte-von-charles-nach-prinzessin-kates-krebsdiagnose-so-stolz.html
+2.110,Bunte,22.3.2024,339,1,1,2,2,Talea de Freese,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/nach-kates-krebsdiagnose-liess-prinz-william-fuer-sie-alles-stehen-und-liegen.html
+2.111,Bild,17.01.2024,768,1,2,2,2,"Marie Sophie Krone, Özlem Evans",8,,2,1,1,2,2,,https://m.bild.de/unterhaltung/royals/leute/op-am-unterleib-prinzessin-kate-im-krankenhaus-86799850.bildMobile.html
+2.112,Bild,18.01.2024,619,3,2,2,2,"Monika Kennedy, Hauke Herffs, Ina Michaelis-Ugwonno",8,,2,1,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/grosse-sorge-um-kate-nach-bauch-op-sagt-prinz-william-alle-termine-ab-86807380.bildMobile.html
+2.113,Bild,18.01.2024,353,3,2,2,2,Alisha Pälmke,8,,3,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kates-klinik-ist-hochsicherheitstrakt-wie-ernst-steht-es-um-sie-86802270.bildMobile.html
+2.114,Bild,19.01.2024,539,1,2,2,2,Jörg Ortmann,2,,3,3,3,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/royals/england-in-sorge-um-prinzessin-kate-soll-charles-op-davon-ablenken-86807456.bildMobile.html
+2.115,Bild,25.01.2024,373,3,2,2,2,Chantal Schüler,2,,2,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kates-zustand-ist-beaengstigend-wirbel-royal-expertin-86886168.bildMobile.html
+2.116,Bild,25.01.2024,526,3,2,2,2,Chantal Schüler,5,,3,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kate-darf-ihre-kinder-nicht-sehen-sind-sie-ein-gesundheitsrisiko-86899988.bildMobile.html
+2.117,Bild,26.01.2024,546,1,2,2,2,Jula Schreiber,2,,2,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/koenig-charles-op-in-den-naechsten-stunden-in-der-klinik-in-der-auch-kate-liegt-86918052.bildMobile.html
+2.118,Bild,27.01.2024,734,1,2,5,2,"Bettina von Schimmelmann, Iris Rosendahl, Sarina Roocks",2&8&9,,2,2,1,1,2,,https://m.bild.de/bild-plus/unterhaltung/royals/royals/prinzessin-kate-was-bedeutet-das-schweigen-des-palasts-86914960.bildMobile.html
+2.119,Bild,29.01.2024,354,1,2,2,2,Unbekannt,2,,2,2,1,2,2,,https://m.bild.de/unterhaltung/royals/leute/nach-op-koenig-charles-aus-krankenhaus-entlassen-86956188.bildMobile.html
+2.120,Bild,29.01.2024,497,1,2,2,2,Marie Sophie Krone,2,,2,2,1,2,2,,https://m.bild.de/unterhaltung/leute/leute/princess-of-wales-wieder-zuhause-kate-hat-die-klinik-verlassen-86952186.bildMobile.html
+2.121,Bild,29.01.2024,506,1,2,3,2,Unbekannt,2,,3,3,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/britische-royals-weiss-nur-prinz-william-was-kate-wirklich-hat-86939152.bildMobile.html
+2.122,Bild,29.01.2024,476,1,2,2,2,Sarina Roocks,5,,2,3,3,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/royals/kate-seit-12-tagen-in-der-klinik-warum-duerfen-die-kids-weiterhin-nicht-zu-ihr-86942408.bildMobile.html
+2.123,Bild,30.01.2024,446,3,2,2,2,Gesa Schwanke,2,,3,3,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kate-so-schmuggelte-der-palast-sie-aus-der-klinik-86950290.bildMobile.html
+2.124,Bild,30.01.2024,693,3,2,2,2,Unbekannt,2,,2,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kate-im-krankenhaus-kurz-nach-ihrem-geburtstag-wurde-es-ernst-86950164.bildMobile.html
+2.125,Bild,31.01.2024,543,1,2,2,2,Gesa Schwanke,2,,3,2,1,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/leute/prinzessin-kate-sie-war-an-ihrer-seite-als-niemand-zu-ihr-durfte-86967828.bildMobile.html
+2.126,Bild,31.01.2024,407,1,2,2,2,Anika Glatzel,8,,2,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kate-sie-macht-jetzt-home-office-86960536.bildMobile.html
+2.127,Bild,03.02.2024,627,3,2,2,2,Bettina von Schimmelmann ,5,,1,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/kate-ist-noch-schwach-william-leidet-so-liebevoll-kuemmern-sich-ihre-kinder-87005056.bildMobile.html
+2.128,Bild,10.02.2024,435,3,2,2,2,Jula Schreiber,2,,2,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kate-windsor-erstmals-nach-op-wieder-verlassen-87105804.bildMobile.html
+2.129,Bild,01.03.2024,406,1,2,2,2,"Hauke Herffs, Ina Michaelis-Ugwonno",3,,2,2,1,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/leute/prinzessin-kate-wie-es-ihr-wirklich-geht-palast-insider-packt-aus-87358380.bildMobile.html
+2.130,Bild,01.03.2024,528,1,2,2,2,Mariella Mandurino,3,,2,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kate-irre-verschwoerungstheorien-um-williams-frau-87342814.bildMobile.html
+2.131,Bild,04.03.2024,354,3,2,2,2,Alexander Friedrich,2,,2,2,1,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/royals/erstes-foto-seit-wochen-kate-ist-wieder-da-87399630.bildMobile.html
+2.132,Bild,06.03.2024,671,3,2,2,2,"Susann Sachse, Markus Brachat",2,,3,2,1,2,2,,https://m.bild.de/bild-plus/unterhaltung/leute/leute/prinzessin-kate-nach-bauch-op-wieder-da-das-wird-im-palast-getuschelt-87406838.bildMobile.html
+2.133,Bild,07.03.2024,602,1,2,2,2,Hauke Herffs ,3,,3,3,1,2,2,,https://m.bild.de/unterhaltung/royals/leute/prinzessin-kate-nach-bauch-op-wieder-da-das-wird-im-palast-getuschelt-87415452.bildMobile.html
+2.134,Bild,08.03.2024,733,3,2,2,2,Chantal Schüler,2,,2,3,2,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/royals/prinzessin-kate-onkel-macht-mysterioese-andeutung-87430658.bildMobile.html
+2.135,Bild,10.03.2024,514,2,2,2,2,Susann Sachse ,99,,1,1,1,2,2,,https://m.bild.de/unterhaltung/leute/leute/prinzessin-kate-das-erste-offizielle-foto-nach-der-bauch-op-sie-strahlt-87462536.bildMobile.html
+2.136,Bild,11.03.2024,466,3,2,2,2,Frank Klauss,10,,3,2,1,2,2,,https://m.bild.de/unterhaltung/royals/royals/photoshop-panne-bei-den-royals-palast-gibt-schummel-foto-von-kate-raus-87470538.bildMobile.html
+2.137,Bild,11.03.2024,496,1,2,2,2,"Mark Pittelkau, Hauke Herffs",99,,2,1,2,2,2,,https://m.bild.de/unterhaltung/leute/leute/prinzessin-kate-mit-kindern-wer-beschuetzt-hier-eigentlich-wen-87465096.bildMobile.html
+2.138,Bild,11.03.2024,519,1,2,2,2,Susann Sachse,10,,3,3,1,2,2,,https://m.bild.de/bild-plus/unterhaltung/leute/leute/prinzessin-kate-um-20-36-uhr-war-der-schummel-skandal-perfekt-87472268.bildMobile.html
+2.139,Bild,12.03.2024,196,2,2,3,2,Franz Josef Wagner,10,,2,3,3,3,2,,https://m.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-liebe-prinzessin-kate-87497614.bildMobile.html
+2.140,Bild,12.03.2024,511,3,2,2,2,Markus Brachat,10,,3,3,3,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kate-was-dieses-neue-foto-ueber-den-fake-krimi-verraet-87489366.bildMobile.html
+2.141,Bild,12.03.2024,508,1,2,2,2,Anika Glatzel,10,,3,3,2,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/royals/prinzessin-kate-was-versteckte-kamera-daten-jetzt-beweisen-sollen-87485830.bildMobile.html
+2.142,Bild,12.03.2024,637,3,2,2,2,Kai Franzke Jr.,10,,3,3,3,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/leute/prinzessin-kate-vernichtete-in-25-stunde-ihre-glaubwuerdigkeit-die-chronologie-87484228.bildMobile.html
+2.143,Bild,12.03.2024,493,1,2,2,2,Markus Brachat,10,,3,3,2,2,2,,https://m.bild.de/unterhaltung/royals/royals/prinzessin-kate-erstes-foto-nach-fake-skandal-william-ist-not-amused-87480210.bildMobile.html
+2.144,Bild,12.03.2024,482,1,2,2,2,Unbekannt,10,,3,3,1,2,2,,https://m.bild.de/unterhaltung/leute/leute/fake-bild-des-palasts-prinzessin-kate-gesteht-foto-manipulation-87475564.bildMobile.html
+2.145,Bild,12.03.2024,509,1,2,2,2,Susann Sachse,10,,3,3,2,2,2,,https://m.bild.de/unterhaltung/leute/leute/prinzessin-kate-piers-morgan-schaltet-sich-in-fake-skandal-ein-sie-hat-nur-eine-87477644.bildMobile.html
+2.146,Bild,12.03.2024,506,1,2,2,2,Hauke Herffs ,10,,3,3,3,2,2,,https://m.bild.de/bild-plus/unterhaltung/royals/leute/prinzessin-kate-vertuschungs-krimi-was-verschweigt-der-palast-87478974.bildMobile.html
+2.147,Bild,13.03.2024,438,1,2,2,2,Alexander Friedrich,10,,2,3,1,2,2,,https://www.bild.de/unterhaltung/royals/royals/william-kam-aber-kate-fehlte-bei-der-trauerfeier-von-thomas-kingston-87498670.bild.html?t_ref=https%3A%2F%2Fm.bild.de%2Fthemen%2Fuebersicht%2Farchiv%2Farchiv-82532020.bildMobile.html%3FarchiveDate%3D2024-03-13
+2.148,Bild,13.03.2024,335,1,2,2,2,Alisha Pälmke,10,,3,3,1,2,2,,https://www.bild.de/unterhaltung/royals/royals/prinz-harry-und-meghan-jetzt-schalten-sie-sich-im-kate-skandal-ein-87509726.bild.html?t_ref=https%3A%2F%2Fm.bild.de%2Fthemen%2Fuebersicht%2Farchiv%2Farchiv-82532020.bildMobile.html%3FarchiveDate%3D2024-03-13
+2.149,Bild,13.03.2024,522,3,2,2,2,Anika Glatzel,10,,2,3,3,3,2,,https://www.bild.de/bild-plus/unterhaltung/royals/royals/prinzessin-kate-schrieb-sie-ihre-entschuldigung-ueberhaupt-selbst-87502630.bild.html?t_ref=https%3A%2F%2Fm.bild.de%2Fthemen%2Fuebersicht%2Farchiv%2Farchiv-82532020.bildMobile.html%3FarchiveDate%3D2024-03-13
+2.150,Bild,13.03.2024,619,1,2,5,2,Thomas Porwol,10,,2,2,1,2,2,,https://www.bild.de/bild-plus/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/foto-fake-um-prinzessin-kate-wie-lese-ich-die-versteckten-meta-daten-87487924.bild.html?t_ref=https%3A%2F%2Fm.bild.de%2Fthemen%2Fuebersicht%2Farchiv%2Farchiv-82532020.bildMobile.html%3FarchiveDate%3D2024-03-13
+2.151,Bild,13.03.2024,871,1,2,5,2,Gesa Schwanke,10,,3,3,2,2,2,,https://www.bild.de/unterhaltung/royals/royals/foto-skandal-um-prinzessin-kate-das-drama-hinter-den-palastmauern-87491226.bild.html?t_ref=https%3A%2F%2Fm.bild.de%2Fthemen%2Fuebersicht%2Farchiv%2Farchiv-82532020.bildMobile.html%3FarchiveDate%3D2024-03-13
+2.152,Bild,13.03.2024,425,1,2,3,2,Ina Michaelis-Ugwonno,10,,3,3,3,3,2,,https://www.bild.de/unterhaltung/royals/royals/harry-vertraute-ueber-fake-kate-meghan-wuerde-so-einen-fehler-niemals-machen-87485826.bild.html?t_ref=https%3A%2F%2Fm.bild.de%2Fthemen%2Fuebersicht%2Farchiv%2Farchiv-82532020.bildMobile.html%3FarchiveDate%3D2024-03-13
+2.153,Bild,14.03.2024,419,1,2,2,2,Marie Sophie Krone,10,,3,3,1,2,2,,https://www.bild.de/unterhaltung/leute/leute/im-jugendzentrum-west-in-london-hier-laechelt-william-kates-foto-fail-weg-87520758.bild.html
+2.154,Bild,14.03.2024,608,1,2,3,2,"Eileen Primus, Chantal Schüler",10,,3,3,3,2,2,,https://www.bild.de/bild-plus/unterhaltung/royals/royals/prinzessin-kate-insider-william-warf-kate-den-woelfen-zum-frass-vor-87513078.bild.html
+2.155,Bild,14.03.2024,627,1,2,3,2,Chantal Schüler,10,,3,3,2,2,2,,https://www.bild.de/unterhaltung/royals/royals/herzogin-meghan-ist-es-nicht-der-grosse-sieger-im-kate-gate-87499552.bild.html
+2.156,Bild,14.03.2024,467,3,2,2,2,Alexander Friedrich,10,,3,2,1,2,2,,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-nach-dem-foto-skandal-cnn-will-jetzt-alle-fotos-pruefen-87503102.bild.html
+2.157,Bild,15.03.2024,605,1,2,3,2,Hauke Herffs,10,,3,3,3,2,2,,https://www.bild.de/bild-plus/unterhaltung/leute/leute/nach-dem-foto-fauxpas-wie-meghan-eiskalt-kates-krise-ausnutzt-87525248.bild.html
+2.158,Bild,18.03.2024,701,1,2,2,2,Ina Michaelis-Ugwonno,2,,3,2,1,2,2,,https://www.bild.de/bild-plus/unterhaltung/royals/royals/prinzessin-kate-palast-streut-neue-gluecklich-infos-dianas-bruder-in-sorge-87557054.bild.html
+2.159,Bild,19.03.2024,343,1,2,2,2,Alexander Friedrich,99,,3,2,1,2,2,,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-datenklau-skandal-in-ihrem-krankenhaus-87579908.bild.html
+2.160,Bild,19.03.2024,429,2,2,2,2,Jula Schreiber,99,,1,1,2,3,2,,https://www.bild.de/unterhaltung/royals/royals/neues-video-prinzessin-kate-strahlt-wieder-87567812.bild.html
+2.161,Bild,20.03.2024,612,1,2,2,2,Sven Kuschel,99,,3,2,1,2,2,,https://www.bild.de/bild-plus/unterhaltung/royals/leute/prinzessin-kate-daten-skanal-so-sichern-kliniken-sensible-patienten-infos-87587410.bild.html
+2.162,Bild,20.03.2024,566,1,2,2,2,Ina Michaelis-Ugwonno,99,,2,2,1,2,2,,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-sicherheits-skandal-in-klinik-was-wissen-die-chefs-87581350.bild.html
+2.163,Bild,20.03.2024,613,3,2,3,2,Salomé Stühler,99,,3,2,3,2,2,,https://www.bild.de/bild-plus/unterhaltung/royals/royals/prinzessin-kates-neues-video-ein-zufall-palast-hat-geheimplan-fuer-ihr-comeback-87568480.bild.html
+2.164,Bild,21.03.2024,818,1,2,2,2,Chantal Schüler,99,,2,3,1,2,2,,https://www.bild.de/unterhaltung/royals/royals/nach-klinik-skandal-kommt-jetzt-prinzessin-kates-diagnose-ans-licht-87581730.bild.html
+2.165,Bild,22.03.2024,917,1,2,2,2,Robert Becker ,7,,2,2,1,1,2,,https://www.bild.de/unterhaltung/leute/leute/royals-schock-nachricht-aus-grossbritannien-prinzessin-kate-hat-krebs-87620738.bild.html
+2.166,Bild,22.03.2024,372,1,2,3,2,Michael Schacht,7,,2,3,2,2,2,,https://www.bild.de/unterhaltung/leute/leute/prinzessin-kate-das-hofladen-foto-hier-wusste-sie-schon-dass-sie-krebs-hat-87620950.bild.html
+2.167,Bild,22.03.2024,497,2,2,5,2,Unbekannt,7,,2,2,1,1,2,,https://www.bild.de/unterhaltung/royals/royals/prinzessin-hat-krebs-kates-emotionale-video-botschaft-im-wortlaut-87621502.bild.html
+2.168,Bild,22.03.2024,571,1,2,3,2,Sven Kuschel,99,,3,2,1,2,2,,https://www.bild.de/bild-plus/unterhaltung/royals/leute/prinzessin-kate-was-hat-der-palast-mit-dem-klinik-skandal-zu-tun-87595746.bild.html
+2.169,Bild,22.03.2024,566,1,2,3,2,Bettina von Schimmelmann,99,,3,3,2,2,1,,https://www.bild.de/bild-plus/unterhaltung/royals/leute/kranke-prinzessin-kate-jetzt-mischt-sich-der-erzbischof-in-den-klinik-skandal-ei-87610404.bild.html
+3.1,Bunte,22.03.2024,325,2,1,2,2,Bunte.de Redaktion,,2,1,1,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-was-sie-uns-ueber-ihre-diagnose-verraten-hat-und-was-nicht.html
+3.2,Bunte,27.03.2024,590,2,1,2,2,Paulina Sternsdorf,,1,1,1,1,3,1,2,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-und-prinzessin-kate-telefonieren-taeglich.html
+3.3,Bunte,26.03.2024,405,1,1,2,2,Leonie Kruse,,1,1,1,2,3,1,2,https://www.bunte.de/royals/britisches-koenigshaus/freund-veroeffentlicht-bisher-ungesehenes-foto-von-prinzessin-kate.html
+3.4,Bunte,26.03.2024,426,2,1,2,2,Melanie Althoff,,2,3,2,3,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-bildbearbeitung-hat-schon-lange-tradition-bei-den-royals.html
+3.5,Bunte,26.03.2024,419,1,1,2,2,Talea de Freese,,2,3,1,2,3,2,2,https://www.bunte.de/royals/britisches-koenigshaus/die-schwedischen-royals-senden-prinzessin-kate-ihr-mitgefuehl.html
+3.6,Bunte,24.03.2024,294,1,1,1,2,Spot On News,,2,2,1,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-erstes-statement-nach-videobotschaft.html
+3.7,Bunte,25.03.2024,345,1,1,2,2,Cleo Wansch,,2,2,1,2,3,2,2,https://www.bunte.de/royals/koenig-charles-trifft-prinzessin-kate-bevor-sie-krebserkrankung-publik-macht.html
+3.8,Bunte,25.03.2024,362,1,1,2,2,Melanie Althoff,,2,3,3,3,3,2,1,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-geschmacklose-verschwoerungstheorien-gehen-weiter.html
+3.9,Bunte,24.03.2024,390,1,1,2,2,Cleo Wansch,,2,1,1,2,3,2,2,https://www.bunte.de/royals/prinzessin-kate-bekommt-unterstuetzung-von-achtjaehriger-mila.html
+3.10,Bunte,05.04.2024,276,1,1,2,2,Vivan Mark ,,1,2,1,2,2,1,2,https://www.bunte.de/royals/britisches-koenigshaus/hier-wohnte-prinzessin-kate-frueher-mit-schwester-pippa.html
+3.11,Bunte,02.04.2024,575,2,1,2,2,Franziska Serdarusic,,3,3,3,3,3,2,2,https://www.bunte.de/royals/britisches-koenigshaus/wurde-prinzessin-kate-zur-veroeffentlichung-ihrer-diagnose-gezwungen.html
+3.12,Bunte,02.04.2024,236,2,1,2,2,Spot On News,,2,1,1,2,3,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-ihre-kinder-geben-ihr-jetzt-den-groessten-halt.html
+3.13,Bunte,31.03.2024,99,1,1,2,2,Spot On News,,2,2,1,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-sie-senden-kurzes-lebenszeichen-zu-ostern.html
+3.14,Bunte,30.03.2024,359,1,2,2,2,Larissa Jerger,,1,2,1,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/koenigin-camilla-verraet-wie-es-kate-nach-krebs-diagnose-geht.html
+3.15,Bunte,29.03.2024,575,2,1,2,2,Natascha Wittmann,,2,2,1,3,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-warum-sie-ihre-videobotschaft-ohne-william-aufnahm.html
+3.16,Bunte,28.03.2024,494,1,1,2,2,Spot On News,,2,3,3,3,3,2,1,https://www.bunte.de/royals/britisches-koenigshaus/meghan-anhaenger-hetzen-gegen-krebskranke-prinzessin-kate-im-internet.html
+3.17,Bunte,13.04.2023,405,2,1,2,2,Spot On News,,2,3,3,1,3,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-posten-erstes-gemeinsames-statement-seit-langem.html
+3.18,Bunte,10.04.2024,275,3,1,2,2,Spot On News,,2,2,1,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/die-dankeskarte-von-prinzessin-kate-bricht-mit-der-tradition.html
+3.19,Bunte,08.04.2024,324,1,1,2,2,Melanie Althoff,,2,3,3,3,3,2,2,https://www.bunte.de/royals/britisches-koenigshaus/william-und-kate-moegliche-thronbesteigung-soll-ihnen-angst-machen.html
+3.20,Bunte,08.04.2024,325,1,1,2,2,Alisa Röckener,,2,2,2,1,1,2,2,https://www.bunte.de/royals/britisches-koenigshaus/was-prinzesin-kate-auf-reisen-immer-dabei-haben-muss.html
+3.21,Bunte,06.04.2024,670,2,1,2,2,Larissa Jerger,,1,1,1,2,3,1,2,https://www.bunte.de/royals/britisches-koenigshaus/hoechst-ungewoehnlich-koenig-charles-bricht-fuer-kate-alle-tabus.html
+3.22,Bunte,05.04.2024,587,2,2,2,2,Vanessa Peschla,,1,2,1,2,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/herzogin-meghan-sendet-versteckte-nachricht-an-schwaegerin-kate.html
+3.23,Bunte,23.04.2024,436,1,1,2,2,Larissa Jerger,,1,1,1,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/william-kate-kriegen-neue-titel-von-charles-ihrer-schreibt-geschichte.html
+3.24,Bunte,23.04.2024,502,1,1,2,2,Larissa Jerger,,1,1,1,2,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/wie-kate-ihren-kindern-in-schweren-zeiten-ein-stueck-normalitaet-schenkt.html
+3.25,Bunte,18.04.2024,412,1,1,2,2,Larissa Jerger,,3,2,2,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/warum-man-ueber-prinzessin-kates-gesundheit-nicht-viel-hoeren-wird.html
+3.26,Bunte,17.04.2024,299,1,2,2,2,BUNTE Magazin,,-,3,3,3,3,1,2,https://www.bunte.de/royals/britisches-koenigshaus/boese-intrigen-gegen-prinzessin-kate.html
+3.27,Bunte,17.04.2024,543,2,1,2,2,Sebastian Berning,,2,3,2,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-will-rueckzugsort-fuer-kate-bauen-doch-er-hat-angst.html
+3.28,Bunte,15.04.2024,615,2,1,2,2,Spot On News,,2,1,1,2,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/nach-krebsdiagnose-von-prinzessin-kate-wie-feiern-ihre-kinder-ihre-geburtstage.html
+3.29,Bunte,30.04.2024,259,1,1,2,2,Mandy Leukert,,1,2,1,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-gibt-ein-gesundheitsupdate-von-prinzessin-kate.html
+3.30,Bunte,29.04.2024,514,1,1,2,2,Felicitas Emmerich,,2,1,1,2,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-und-prinzessin-kate-teilen-zum-hochzeitstag-ein-ungesehenes-foto.html
+3.31,Bunte,29.04.2024,887,2,1,2,2,Larissa Jerger,,1,1,1,2,3,1,2, https://www.bunte.de/royals/britisches-koenigshaus/william-kate-feiern-13-hochzeitstag-ein-ruehrendes-ehe-versprechen.html
+3.32,Bunte,26.04.2024,452,1,1,2,2,Natascha Wittmann,,2,1,1,2,3,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-unterstuetze-einst-lets-dance-star-bei-chemo.html
+3.33,Bild,24.03.2024,706,2,1,2,2,"Thomas Porwoll,Laura Krimmer",,2,2,2,1,2,2,2,https://www.bild.de/ratgeber/gesundheit/gesundheit/prinzessin-kate-welche-chemos-kommen-bei-krebs-heute-zum-einsatz-87622298.bild.html
+3.34,Bild,24.03.2024,260,1,1,3,2,Tanja May,,2,3,3,3,3,2,1,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-das-hatte-sie-nicht-verdient-87629348.bild.html
+3.35,Bild,24.03.2024,193,1,2,3,2,Franz Josef Wagner,,2,1,1,2,3,2,2,https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-liebe-krebskranke-prinzessin-kate-87639640.bild.html
+3.36,Bild,26.03.2024,400,1,1,2,2,-,,3,3,3,3,2,2,2,https://www.bild.de/unterhaltung/royals/royals/kates-krebs-erkrankung-herzogin-meghan-bremst-karriere-plaene-87654374.bild.html
+3.37,Bild,25.03.2024,311,1,1,3,2,Evelyn Holst,,2,3,3,3,3,2,2,https://www.bild.de/ratgeber/2024/ratgeber/bild-kolumne-prinzessin-kate-hat-krebs-heulen-ist-keine-option-87637020.bild.html
+3.38,Bild,25.03.2024,457,1,1,1,2,Anika Glatzel,,2,3,2,1,2,2,2,https://www.bild.de/bild-plus/unterhaltung/royals/royals/prinzessin-kate-und-prinz-william-rueckzug-per-heli-87641044.bild.html
+3.39,Bild,25.03.2024,436,1,1,2,2,Mariella Mandurino,,2,1,1,2,3,2,2,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-hat-krebs-kleine-mila-8-steht-ihr-jetzt-bei-87632228.bild.html
+3.40,Bild,25.03.2024,722,3,1,2,2,Anika Glatzel,,1,1,1,2,2,2,2,https://www.bild.de/unterhaltung/royals/royals/prinzessin-katediese-frauen-stehen-fest-an-ihrer-seite-87632344.bild.html
+3.41,Bild,24.03.2024,443,1,2,2,2,Niko Nölken,,,1,1,1,2,2,2,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-schrieb-krebs-rede-allein-und-sehr-schnell-ein-freund-packt-aus-87632366.bild.html
+3.42,Bild,24.03.2024,466,3,1,2,2,Franziska von Mutius,,2,2,1,2,3,2,2,https://www.bild.de/unterhaltung/royals/leute/kates-mama-middleton-was-loest-das-krebsdrama-in-ihr-aus-87626798.bild.html
+3.43,Bild,04.04.2024,376,3,1,2,2,Jula Schreiber,,2,3,3,1,2,2,2,https://www.bild.de/unterhaltung/royals/royals/kate-und-meghan-markle-vor-versoehnung-es-scheitert-wegen-ihr-87748254.bild.html
+3.44,Bild,03.04.2024,414,3,2,2,2,Nicole Richter,,2,3,3,2,2,2,2,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-kaempft-gegen-krebs-ihre-eltern-haben-hohe-schulden-87738406.bild.html
+3.45,Bild,02.04.2024,311,3,1,2,2, Eileen Primus,,,3,3,1,2,2,2,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kates-krebs-video-krankenakte-geleakt-palast-wurde-erpresst-87725110.bild.html
+3.46,Bild,31.04.2024,424,3,1,2,2,Özlem Evans und Hauke Herffs,,2,2,1,1,2,2,2,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-wie-ihr-krebs-kampf-den-palast-veraendert-87700578.bild.html
+3.47,Bild,28.03.2024,452,1,1,2,2, Marie Sophie Krone,,2,3,3,2,3,1,1,https://www.bild.de/unterhaltung/leute/leute/cyber-mobbing-kranke-kate-von-irren-meghan-anhaengern-verfolgt-87677032.bild.html
+3.48,Bild,28.03.2024,464,1,2,1,2,Kai Franzke Jr.,,1,1,1,1,2,2,2,https://www.bild.de/unterhaltung/royals/leute/camilla-und-kate-koenigin-und-fans-senden-liebesgruesse-an-die-prinzessin-87675650.bild.html
+3.49,Bild,27.03.2024,310,1,2,1,2,Majena von Cappeln,,2,1,1,1,1,2,2,https://www.bild.de/unterhaltung/royals/leute/krebskranker-koenig-charles-oster-termin-der-king-haelt-auch-fuer-kate-die-stell-87664780.bild.html
+3.50,Bild,26.03.2024,216,3,1,2,2,Catharina Steiner,,2,1,1,1,2,1,2,https://www.bild.de/unterhaltung/royals/royals/koenig-charles-er-schlurfte-im-morgenmantel-an-kates-klinik-bett-87632266.bild.html
+3.51,Bild,26.03.2024,400,3,1,2,2,Salomé Stühler,,2,1,1,2,1,2,2,https://www.bild.de/unterhaltung/royals-adel/sarah-ferguson-sendet-ruehrende-worte-an-prinzessin-kate-660270a4f70864343e7cf5ec
+3.52,Bild,26.03.2024,436,1,1,2,2,Nico Nölken,,2,1,1,2,1,2,2,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-hat-krebs-warum-sie-mit-jedem-tag-staerker-wird-87635402.bild.html
+3.53,Bild,10.04.2024,372,1,1,2,2,Alisha Pälmke,,2,1,1,1,1,2,2,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-sie-bricht-mit-dankeskarte-eine-tradition-87824952.bild.html
+3.54,Bild,19.04.2024,465,1,2,2,2,Chantal Schüler,,2,1,1,3,3,1,2,https://www.bild.de/unterhaltung/royals-adel/prinz-william-sein-erster-termin-seit-kates-krebs-video-66210e94bbc09b2efe14de5c
+3.55,Bild,22.04.2024,465,1,1,2,2,Anika Glatzel,,3,2,2,3,3,1,2,https://www.bild.de/unterhaltung/royals-adel/prinzessin-in-sorge-kates-bruder-hat-stress-mit-horror-nachbarn-66261b36a0c4dc11775407b8
+3.56,Bild,23.04.2024,277,1,1,2,2,Alisha Pälmke,,2,1,1,1,2,1,2,https://www.bild.de/unterhaltung/royals-adel/koenig-charles-iii-verleiht-prinzessin-kate-besondere-auszeichnung-6627dd5d03d2bf2a28835cae
+3.57,Bild,30.04.2024,278,1,1,2,2,Anika Glatzel,,1,2,1,1,1,1,2,https://www.bild.de/unterhaltung/royals-adel/kate-und-william-heirateten-2011-heute-vor-13-jahren-662f94bf2d729033d7c34dca
+3.58,FAZ,29.03.2024,351,2,2,3,2,Berit Glanz,,1,3,3,3,2,2,1,https://fazarchiv.faz.net/faz-portal/document?uid=FAS__SD1202403315010977182051
+3.59,FAZ,24.03.2024,551,2,1,2,2,Theo Stemmler,,2,1,1,3,3,1,1,https://fazarchiv.faz.net/payment/faznet?key=/1.9609154
+3.60,FAZ,24.03.2024,662,2,1,2,2,Eva Ladipo ,,2,3,2,3,2,1,2,https://fazarchiv.faz.net/payment/faznet?key=/1.9609217
+3.61,FAZ,22.03.2024,261,2,1,1,2,-,,2,2,2,1,2,2,1,https://fazarchiv.faz.net/payment/faznet?key=/1.9606940
+3.62,FAZ,29.03.2024,726,2,2,2,2,Johannes Leithäuser,,2,1,2,1,1,2,1,https://fazarchiv.faz.net/payment/faznet?key=/1.9620451
+3.63,FAZ,12.04.2024,185,2,2,1,2,-,,2,2,2,1,1,2,2,https://www.faz.net/suche/
+2.170,FAZ,18.03.2024,246,2,2,1,2,-,,2,2,2,1,2,2,1,https://fazarchiv.faz.net/payment/faznet?key=/1.9596415
