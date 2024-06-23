@@ -1,63 +1,74 @@
 ID,Name Zeitung,Datum,Wörteranzahl,Verhältnis Abbildung/Text,Cover,Darstellungsform Artikel,Geschwärzt,Autoren,Theorie,Wertung Bilder,Konnotation der Überschrift,Konnotation des Artikels,Schreibstil des Artikels,Emotionalität des Artikels,Superlative,Metaebene,Link
-1.1,Bunte,02.11.2023,226,1,2,1,2,Bunte.de Redaktion,,0,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-auf-dem-rad-ist-sie-nicht-zu-bremsen.html
-1.2,Bunte,04.11.2023,440,1,2,1,2,Natascha Wittmann,,0,2,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wer-bist-du-ihre-antwort-sagt-viel-ueber-sie-aus.html
-1.3,Bunte,06.11.2023,315,1,2,1,2,Matthis Sell,,0,1,1,2,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-beweist-sich-beim-drachenbootrennen-in-singapur-als-naturtalent.html
-1.4,Bunte,07.11.2023,381,2,2,2,2,Romy Holz,,0,3,3,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-eltern-gehen-in-rente-um-neues-fiasko-zu-vermeiden.html
-1.5,Bunte,07.11.2023,348,1,2,1,2,Alisa Röckener,,0,2,2,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-verraet-das-eiskalte-geheimnis-ihrer-figur.html
-1.6,Bunte,07.11.2023,652,2,2,2,2,Bunte.de Redaktion,,0,2,2,1,1,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-staraufgebot-bei-den-earthshot-prize-awards-in-singapur.html
-1.7,Bunte,08.11.2023,246,3,2,1,2,Matthis Sell,,0,2,2,1,1,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-ist-in-ihrer-armee-kluft-kaum-zu-erkennen.html
-1.8,Bunte,09.11.2023,429,1,2,1,2,Melanie Althoff,,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-will-bei-arbeit-der-koenigsfamilie-einen-schritt-weiter-gehen.html
-1.9,Bunte,12.11.2023,285,3,2,1,2,Alexa Stark,,0,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/beim-rememberence-day-ehrt-prinzessin-kate-queen-elizabeth-ii-mit-einem-besonderen-accessoire.html
-1.10,Bunte,14.11.2023,503,1,2,1,2,Bunte.de Redaktion,,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-auf-den-bahamas-zeigen-sie-ihr-tauch-talent.html
-1.11,Bunte,15.11.2023,512,2,2,2,2,Bunte.de Redaktion,,0,1,1,1,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-setzt-sie-sich-fuer-eine-gesuendere-welt-ein.html
-1.12,Bunte,16.11.2023,316,1,2,1,2,Bunte.de Redaktion,,0,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/schmuck-mit-geschichte-prinzessin-kate-traegt-prinzessin-dianas-ohrringe.html
-1.13,Bunte,17.11.2023,1023,2,2,2,2,Bunte.de Redaktion,,0,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/wie-romantisch-so-entfachte-ein-kleid-kate-williams-liebe.html
-1.14,Bunte,18.11.2023,427,2,2,1,2,Natascha Wittmann,,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-bewegender-auftritt-fuer-ihre-herzensangelegenheit.html
-1.15,Bunte,18.11.2023,313,1,2,1,2,Bunte.de Redaktion,,0,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-darum-ist-sie-stolz-auf-prinz-louis.html
-1.16,Bunte,19.11.2023,277,1,2,1,2,dpa,,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-an-heiligabend-ist-sie-im-britischen-tv-zu-sehen.html
-1.17,Bunte,22.11.2023,382,2,2,1,2,Bunte.de Redaktion,,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-ihre-tiara-hat-man-seit-ueber-90-jahren-nicht-gesehen.html
-1.18,Bunte,22.11.2023,237,1,2,1,2,Bunte.de Redaktion,,0,2,3,2,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-william-glamouroese-einblicke-ins-staatsbankett.html
-1.19,Bunte,23.11.2023,368,1,2,1,2,Bunte.de Redaktion,,0,3,3,3,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-weihnachtsgeschenke-fuer-harrys-kinder.html
-1.20,Bunte,23.11.2023,324,3,2,1,2,Romy Holz,,0,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-und-william-treffen-schon-bald-auf-victoria-und-daniel-von-schweden.html
-1.21,Bunte,23.11.2023,375,1,2,3,2,Bunte.de Redaktion,,0,3,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-im-roten-cape-mantel-von-welcher-koenigin-sie-da-abgeguckt-hat.html
-1.22,Bunte,24.11.2023,462,2,2,1,2,Bunte.de Redaktion,,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-fuellt-regale-mit-weihnachtsgeschenken-fuer-kinder.html
-1.23,Bunte,25.11.2023,474,2,2,1,2,Natascha Wittmann,,0,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-herzogin-meghan-neue-details-ueber-das-treffen-der-fab-four.html
-1.24,Bunte,25.11.2023,343,1,2,1,2,Bunte.de Redaktion,,0,3,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-co-klare-regeln-zu-weihnachten-das-duerfen-die-royals-nicht.html
-1.25,Bunte,25.11.2023,595,2,2,1,2,Bunte.de Redaktion,,0,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/eiszeit-zwischen-prinzessin-kate-meghan-so-bitter-ist-die-realitaet.html
-1.26,Bunte,26.11.2023,748,2,2,1,2,Bunte.de Redaktion,,0,3,3,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-williams-kates-angestellte-muessen-sich-an-dresscode-halten.html
-1.27,Bunte,26.11.2023,676,2,2,1,2,Bunte.de Redaktion,,0,3,3,2,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-messlate-ist-niedriger-so-meghans-biograf.html
-1.28,Bunte,27.11.2023,494,2,2,1,2,Abendzeitung,,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-mehr-privatsphaere-im-adelaide-cottage.html
-1.29,Bunte,27.11.2023,629,1,2,1,2,Natascha Wittmann,,0,2,3,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/herzogin-meghan-prinzessin-kate-warum-sie-sich-wie-diana-anziehen-sollten.html
-1.30,Bunte,28.11.2023,900,2,2,2,2,Bunte.de Redaktion,,0,3,3,3,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-iii-die-groessten-aufreger-aus-neuem-enthuellungsbuch.html
-1.31,Bunte,28.11.2023,475,2,2,1,2,Romy Holz,,0,3,3,3,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/insider-enthuellt-prinzessin-kates-palast-spitznamen.html
-1.32,Bunte,30.11.2023,712,2,2,2,2,Larissa Jerger,,0,3,2,3,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-prinzessin-kate-nach-rassismus-skandal-verzweifelt.html
-1.33,Bunte,30.11.2023,454,1,2,1,2,Romy Holz,,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kein-eton-george-soll-auf-ihre-ehemalige-schule-gehen.html
-1.34,Bunte,01.12.2023,619,2,2,1,2,Talea de Freese,,0,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-glamour-auftritt-sie-laechelt-krise-einfach-weg.html
-1.35,Bunte,01.12.2023,552,1,2,1,2,Larissa Jerger,,0,1,1,1,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-fans-bleiben-trotz-rassismus-skandal-treu.html
-1.36,Bunte,04.12.2023,293,1,2,1,2,Bunte.de Redaktion,,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-kleid-kopiert-von-der-frau-des-britischen-premiers.html
-1.37,Bunte,05.12.2023,638,2,2,1,2,Romy Holz,,0,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/hinter-den-kulissen-knallte-es-gewaltig-zwischen-kate-und-meghan.html
-1.38,Bunte,05.12.2023,408,1,2,1,2,Romy Holz,,0,2,2,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-besuchte-heimlich-lets-dance-pendant-mit-ihren-kids.html
-1.39,Bunte,05.12.2023,330,1,2,1,2,Bunte.de Redaktion,,0,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/bei-einem-ruehrenden-termin-ehrt-prinzessin-kate-diana-gleich-doppelt.html
-1.40,Bunte,05.12.2023,506,2,2,1,2,Talea de Freese,,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-seite-an-seite-mit-charles-camilla.html
-1.41,Bunte,07.12.2023,445,1,2,1,2,Natascha Wittmann,,0,2,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kleines-detail-mit-grosser-bedeutung.html
-1.42,Bunte,08.12.2023,413,1,2,1,2,Bunte.de Redaktion,,0,1,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-hier-versetzt-sie-die-briten-in-weihnachtliche-vorfreude.html
-1.43,Bunte,08.12.2023,336,1,2,1,2,Bunte.de Redaktion,,0,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-will-wie-eine-schwester-fuer-tochter-charlotte-sein.html
-1.44,Bunte,08.12.2023,416,1,2,1,2,Talea de Freese,,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-nimmt-louis-zum-ersten-mal-zum-weihnachtskonzert-mit.html
-1.45,Bunte,10.12.2023,776,2,2,2,2,Bunte.de Redaktion,,0,3,3,2,3,2,0,https://www.bunte.de/royals/prinz-william-und-prinzessin-kate-veroeffentlichen-ihre-weihnachtskarte.html
-1.46,Bunte,11.12.2023,308,1,2,1,2,Bunte.de Redaktion,,0,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wird-fuer-wohltaetigkeits-organisation-zum-weihnachts-engel.html
-1.47,Bunte,14.12.2023,630,2,2,1,2,Larissa Jerger,,0,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-warum-sie-sich-schaemen-sollten.html
-1.48,Bunte,15.12.2023,802,2,2,2,2,Bunte.de Redaktion,,0,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-camilla-co-so-lustig-geht-es-weihnachten-auf-sandringham-zu.html
-1.49,Bunte,15.12.2023,823,2,2,2,2,Bunte.de Redaktion,,0,2,2,1,1,2,0,https://www.bunte.de/entertainment/serien/william-kate-wie-echt-ist-ihre-liebesgeschichte-in-the-crown.html
-1.50,Bunte,15.12.2023,381,1,2,1,2,Leonie Winstermann,,0,3,2,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-und-prinzessin-kate-fruehstuecken-an-weihnachten-getrennt.html
-1.51,Bunte,18.12.2023,452,2,2,1,2,Bunte.de Redaktion,,0,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/alternative-zu-eton-prinz-george-besichtigt-andere-schule-mit-kate-und-william.html
-1.52,Bunte,18.12.2023,417,2,2,1,2,Bunte.de Redaktion,,0,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-in-tv-show-lachen-sie-traenen.html
-1.53,Bunte,18.12.2023,345,1,2,1,2,Matthis Sell,,0,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-begeistert-in-weihnachtlicher-zeitreise-mit-throwback-foto.html
-1.54,Bunte,19.12.2023,376,1,2,1,2,Matthis Sell,,0,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/herzogin-kate-herzogin-meghan-warum-sich-die-royal-damen-nie-verstanden-haben.html
-1.55,Bunte,20.12.2023,363,1,2,1,2,Romy Holz,,0,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ehemaliger-butler-plaudert-ueber-kates-und-williams-alkohol-konsum.html
-1.56,Bunte,20.12.2023,517,2,2,1,2,Bunte.de Redaktion,,0,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ploetzlich-tauchte-prinzessin-kate-in-dokuserie-auf.html
-1.57,Bunte,21.12.2023,459,1,2,1,2,Larissa Jerger,,0,2,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-ex-butler-entschluesselt-liebes-geheimnis.html
-1.58,Bunte,21.12.2023,384,1,2,1,2,Lisa-Marie Feibig,,0,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-brachte-prinz-harry-mit-weihnachtsgeschenk-in-verlegenheit.html
-1.59,Bunte,23.12.2023,383,1,2,1,2,Cathrin Keller,,0,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ein-kleid-vier-farben-prinzessin-kates-lieblingsteil-kostet-schlappe-1568-euro.html
+1.1,Bunte,02.11.2023,226,1,2,1,2,Bunte.de Redaktion,0,1,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-auf-dem-rad-ist-sie-nicht-zu-bremsen.html
+1.2,Bunte,04.11.2023,440,1,2,1,2,Natascha Wittmann,0,1,2,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wer-bist-du-ihre-antwort-sagt-viel-ueber-sie-aus.html
+1.3,Bunte,06.11.2023,315,1,2,1,2,Matthis Sell,0,1,1,1,2,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-beweist-sich-beim-drachenbootrennen-in-singapur-als-naturtalent.html
+1.4,Bunte,07.11.2023,381,2,2,2,2,Romy Holz,0,2,3,3,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-eltern-gehen-in-rente-um-neues-fiasko-zu-vermeiden.html
+1.5,Bunte,07.11.2023,348,1,2,1,2,Alisa Röckener,0,1,2,2,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-verraet-das-eiskalte-geheimnis-ihrer-figur.html
+1.6,Bunte,07.11.2023,652,2,2,2,2,Bunte.de Redaktion,0,1,2,2,1,1,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-staraufgebot-bei-den-earthshot-prize-awards-in-singapur.html
+1.7,Bunte,08.11.2023,246,3,2,1,2,Matthis Sell,0,1,2,2,1,1,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-ist-in-ihrer-armee-kluft-kaum-zu-erkennen.html
+1.8,Bunte,09.11.2023,429,1,2,1,2,Melanie Althoff,0,2,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-will-bei-arbeit-der-koenigsfamilie-einen-schritt-weiter-gehen.html
+1.9,Bunte,12.11.2023,285,3,2,1,2,Alexa Stark,0,1,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/beim-rememberence-day-ehrt-prinzessin-kate-queen-elizabeth-ii-mit-einem-besonderen-accessoire.html
+1.10,Bunte,14.11.2023,503,1,2,1,2,Bunte.de Redaktion,0,1,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-auf-den-bahamas-zeigen-sie-ihr-tauch-talent.html
+1.11,Bunte,15.11.2023,512,2,2,2,2,Bunte.de Redaktion,0,1,1,1,1,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-setzt-sie-sich-fuer-eine-gesuendere-welt-ein.html
+1.12,Bunte,16.11.2023,316,1,2,1,2,Bunte.de Redaktion,0,2,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/schmuck-mit-geschichte-prinzessin-kate-traegt-prinzessin-dianas-ohrringe.html
+1.13,Bunte,17.11.2023,1023,2,2,2,2,Bunte.de Redaktion,0,1,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/wie-romantisch-so-entfachte-ein-kleid-kate-williams-liebe.html
+1.14,Bunte,18.11.2023,427,2,2,1,2,Natascha Wittmann,0,1,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-bewegender-auftritt-fuer-ihre-herzensangelegenheit.html
+1.15,Bunte,18.11.2023,313,1,2,1,2,Bunte.de Redaktion,0,2,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-darum-ist-sie-stolz-auf-prinz-louis.html
+1.16,Bunte,19.11.2023,277,1,2,1,2,dpa,0,1,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-an-heiligabend-ist-sie-im-britischen-tv-zu-sehen.html
+1.17,Bunte,22.11.2023,382,2,2,1,2,Bunte.de Redaktion,0,1,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-ihre-tiara-hat-man-seit-ueber-90-jahren-nicht-gesehen.html
+1.18,Bunte,22.11.2023,237,1,2,1,2,Bunte.de Redaktion,0,1,2,3,2,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-william-glamouroese-einblicke-ins-staatsbankett.html
+1.19,Bunte,23.11.2023,368,1,2,1,2,Bunte.de Redaktion,0,2,3,3,3,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-weihnachtsgeschenke-fuer-harrys-kinder.html
+1.20,Bunte,23.11.2023,324,3,2,1,2,Romy Holz,0,2,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-und-william-treffen-schon-bald-auf-victoria-und-daniel-von-schweden.html
+1.21,Bunte,23.11.2023,375,1,2,3,2,Bunte.de Redaktion,0,3,3,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-im-roten-cape-mantel-von-welcher-koenigin-sie-da-abgeguckt-hat.html
+1.22,Bunte,24.11.2023,462,2,2,1,2,Bunte.de Redaktion,0,1,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-fuellt-regale-mit-weihnachtsgeschenken-fuer-kinder.html
+1.23,Bunte,25.11.2023,474,2,2,1,2,Natascha Wittmann,0,3,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-herzogin-meghan-neue-details-ueber-das-treffen-der-fab-four.html
+1.24,Bunte,25.11.2023,343,1,2,1,2,Bunte.de Redaktion,0,2,3,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-co-klare-regeln-zu-weihnachten-das-duerfen-die-royals-nicht.html
+1.25,Bunte,25.11.2023,595,2,2,1,2,Bunte.de Redaktion,0,3,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/eiszeit-zwischen-prinzessin-kate-meghan-so-bitter-ist-die-realitaet.html
+1.26,Bunte,26.11.2023,748,2,2,1,2,Bunte.de Redaktion,0,2,3,3,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-williams-kates-angestellte-muessen-sich-an-dresscode-halten.html
+1.27,Bunte,26.11.2023,676,2,2,1,2,Bunte.de Redaktion,0,2,3,3,2,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-messlate-ist-niedriger-so-meghans-biograf.html
+1.28,Bunte,27.11.2023,494,2,2,1,2,Abendzeitung,0,3,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-mehr-privatsphaere-im-adelaide-cottage.html
+1.29,Bunte,27.11.2023,629,1,2,1,2,Natascha Wittmann,0,1,2,3,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/herzogin-meghan-prinzessin-kate-warum-sie-sich-wie-diana-anziehen-sollten.html
+1.30,Bunte,28.11.2023,900,2,2,2,2,Bunte.de Redaktion,0,2,3,3,3,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-iii-die-groessten-aufreger-aus-neuem-enthuellungsbuch.html
+1.31,Bunte,28.11.2023,475,2,2,1,2,Romy Holz,0,3,3,3,3,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/insider-enthuellt-prinzessin-kates-palast-spitznamen.html
+1.32,Bunte,30.11.2023,712,2,2,2,2,Larissa Jerger,0,2,3,2,3,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-prinzessin-kate-nach-rassismus-skandal-verzweifelt.html
+1.33,Bunte,30.11.2023,454,1,2,1,2,Romy Holz,0,1,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kein-eton-george-soll-auf-ihre-ehemalige-schule-gehen.html
+1.34,Bunte,01.12.2023,619,2,2,1,2,Talea de Freese,0,1,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-glamour-auftritt-sie-laechelt-krise-einfach-weg.html
+1.35,Bunte,01.12.2023,552,1,2,1,2,Larissa Jerger,0,1,1,1,1,3,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-fans-bleiben-trotz-rassismus-skandal-treu.html
+1.36,Bunte,04.12.2023,293,1,2,1,2,Bunte.de Redaktion,0,1,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kates-kleid-kopiert-von-der-frau-des-britischen-premiers.html
+1.37,Bunte,05.12.2023,638,2,2,1,2,Romy Holz,0,2,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/hinter-den-kulissen-knallte-es-gewaltig-zwischen-kate-und-meghan.html
+1.38,Bunte,05.12.2023,408,1,2,1,2,Romy Holz,0,1,2,2,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-besuchte-heimlich-lets-dance-pendant-mit-ihren-kids.html
+1.39,Bunte,05.12.2023,330,1,2,1,2,Bunte.de Redaktion,0,1,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/bei-einem-ruehrenden-termin-ehrt-prinzessin-kate-diana-gleich-doppelt.html
+1.40,Bunte,05.12.2023,506,2,2,1,2,Talea de Freese,0,1,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-seite-an-seite-mit-charles-camilla.html
+1.41,Bunte,07.12.2023,445,1,2,1,2,Natascha Wittmann,0,1,2,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-kleines-detail-mit-grosser-bedeutung.html
+1.42,Bunte,08.12.2023,413,1,2,1,2,Bunte.de Redaktion,0,1,1,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-hier-versetzt-sie-die-briten-in-weihnachtliche-vorfreude.html
+1.43,Bunte,08.12.2023,336,1,2,1,2,Bunte.de Redaktion,0,1,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-will-wie-eine-schwester-fuer-tochter-charlotte-sein.html
+1.44,Bunte,08.12.2023,416,1,2,1,2,Talea de Freese,0,1,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-sie-nimmt-louis-zum-ersten-mal-zum-weihnachtskonzert-mit.html
+1.45,Bunte,10.12.2023,776,2,2,2,2,Bunte.de Redaktion,0,1,3,3,2,3,2,0,https://www.bunte.de/royals/prinz-william-und-prinzessin-kate-veroeffentlichen-ihre-weihnachtskarte.html
+1.46,Bunte,11.12.2023,308,1,2,1,2,Bunte.de Redaktion,0,1,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wird-fuer-wohltaetigkeits-organisation-zum-weihnachts-engel.html
+1.47,Bunte,14.12.2023,630,2,2,1,2,Larissa Jerger,0,2,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-warum-sie-sich-schaemen-sollten.html
+1.48,Bunte,15.12.2023,802,2,2,2,2,Bunte.de Redaktion,0,1,1,1,2,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/kate-camilla-co-so-lustig-geht-es-weihnachten-auf-sandringham-zu.html
+1.49,Bunte,15.12.2023,823,2,2,2,2,Bunte.de Redaktion,0,1,2,2,1,1,2,0,https://www.bunte.de/entertainment/serien/william-kate-wie-echt-ist-ihre-liebesgeschichte-in-the-crown.html
+1.50,Bunte,15.12.2023,381,1,2,1,2,Leonie Winstermann,0,1,3,2,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-und-prinzessin-kate-fruehstuecken-an-weihnachten-getrennt.html
+1.51,Bunte,18.12.2023,452,2,2,1,2,Bunte.de Redaktion,0,1,2,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/alternative-zu-eton-prinz-george-besichtigt-andere-schule-mit-kate-und-william.html
+1.52,Bunte,18.12.2023,417,2,2,1,2,Bunte.de Redaktion,0,2,1,1,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-in-tv-show-lachen-sie-traenen.html
+1.53,Bunte,18.12.2023,345,1,2,1,2,Matthis Sell,0,1,1,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-begeistert-in-weihnachtlicher-zeitreise-mit-throwback-foto.html
+1.54,Bunte,19.12.2023,376,1,2,1,2,Matthis Sell,0,1,3,3,1,2,1,0,https://www.bunte.de/royals/britisches-koenigshaus/herzogin-kate-herzogin-meghan-warum-sich-die-royal-damen-nie-verstanden-haben.html
+1.55,Bunte,20.12.2023,363,1,2,1,2,Romy Holz,0,3,3,3,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ehemaliger-butler-plaudert-ueber-kates-und-williams-alkohol-konsum.html
+1.56,Bunte,20.12.2023,517,2,2,1,2,Bunte.de Redaktion,0,1,1,1,2,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ploetzlich-tauchte-prinzessin-kate-in-dokuserie-auf.html
+1.57,Bunte,21.12.2023,459,1,2,1,2,Larissa Jerger,0,1,2,1,2,3,1,0,https://www.bunte.de/royals/britisches-koenigshaus/prinz-william-prinzessin-kate-ex-butler-entschluesselt-liebes-geheimnis.html
+1.58,Bunte,21.12.2023,384,1,2,1,2,Lisa-Marie Feibig,0,1,1,2,1,2,2,0,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-brachte-prinz-harry-mit-weihnachtsgeschenk-in-verlegenheit.html
+1.59,Bunte,23.12.2023,383,1,2,1,2,Cathrin Keller,0,2,2,2,1,1,2,0,https://www.bunte.de/royals/britisches-koenigshaus/ein-kleid-vier-farben-prinzessin-kates-lieblingsteil-kostet-schlappe-1568-euro.html
+1.60,Bild,09.11.2023,127,3,2,1,2,0,0,1,2,2,2,1,2,0,https://www.bild.de/unterhaltung/royals/royals/prinzessin-kate-im-tarnanzug-antrittsbesuch-beim-kavallerie-regiment-86029580.bild.html
+1.61,Bild,10.11.2023,399,1,2,1,2,Alexander Friedrich,0,1,3,3,2,2,2,0,https://www.bild.de/unterhaltung/royals/royals/prinz-william-und-prinzessin-kate-die-langweiligsten-royals-86039012.bild.html
+1.62,Bild,30.11.2023,966,2,2,2,2,Ina Michaelis-Ugwonno,0,2,2,3,1,3,1,0,https://www.bild.de/unterhaltung/royals/leute/piers-morgan-nennt-einen-weiteren-namen-im-rassismus-skandal-um-briten-royals-86274558.bild.html
+1.63,Bild,30.11.2023,401,2,2,1,2,Sarina Rooks,0,3,2,2,2,2,1,0,https://www.bild.de/unterhaltung/royals/royals/the-crown-staffel-6-stellt-den-katewalk-nach-86258996.bild.html
+1.64,Bild,02.12.2023,305,1,2,1,2,Michael Schacht,0,2,2,3,3,2,2,0,https://www.bild.de/unterhaltung/royals/royals/prinz-william-und-prinzessin-kate-treffen-auf-ted-lasso-star-86295690.bild.html
+1.65,Bild,04.12.2023,117,3,2,1,2,Nicola Phol,0,2,2,2,3,2,2,0,https://www.bild.de/bild-plus/unterhaltung/leute/leute/koenig-charles-jetzt-spricht-die-endgame-uebersetzerin-im-rassismus-skandal-86316616.bild.html
+1.66,Bild,05.12.2023,139,1,2,1,2,Hauke Herffs,0,3,3,2,2,1,1,0,https://www.bild.de/bild-plus/unterhaltung/royals/leute/kate-und-meghan-hinter-den-kulissen-knallte-es-schon-2018-86318410.bild.html
+1.67,Bild,14.12.2023,725,3,2,1,2,Iris Rosendahl,0,2,3,3,1,1,1,0,https://www.bild.de/unterhaltung/leute/leute/william-und-kates-weihnachtskarte-so-peinlich-ist-ihnen-die-photoshop-panne-86429216.bild.html
+1.68,Bild,15.12.2023,179,2,2,1,2,Anika Glatzel,0,2,3,2,1,2,2,0,https://www.bild.de/bild-plus/unterhaltung/royals/royals/prinz-harrys-nazi-skandal-fuer-netflix-sind-kate-und-william-die-boesen-86443994.bild.html
+1.69,Bild,19.12.2023,96,3,2,1,2,"John Puthenpurackal, Sarina Rooks",0,2,2,2,1,1,2,0,https://www.bild.de/bild-plus/unterhaltung/royals/royals/lets-dance-star-motsi-mabuse-geheimtreffen-mit-prinzessin-kate-86480444.bild.html
+1.70,Bild,20.12.2023,209,1,2,1,2,Marlene Barduhn,0,2,2,2,2,2,2,0,https://www.bild.de/unterhaltung/leute/leute/prinzessin-kate-auf-diesem-kinderfoto-sieht-kate-aus-wie-86482426.bild.html
 2.1,Bunte,25.12.2023,182,3,1,2,2,Romy Holz,,1,2,1,1,2,2,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-prinz-william-posten-weihnachtliche-gruesse-ihrer-drei-kids.html
 2.2,Bunte,26.12.2023,506,2,2,2,2,Larissa Jerger,,2,2,2,2,2,1,,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-offenbart-in-weihnachtsrede-wer-fuer-ihn-der-teil-royal-family-ist.html
 2.3,Bunte,26.12.2023,309,1,1,2,2,Bunte.de Redaktion,,1,1,1,1,1,1,,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-wie-sie-prinzessin-diana-36-an-weihnachten-ehrt.html
@@ -227,6 +238,7 @@ ID,Name Zeitung,Datum,Wörteranzahl,Verhältnis Abbildung/Text,Cover,Darstellung
 2.167,Bild,22.03.2024,497,2,2,5,2,Unbekannt,Krebs,,2,2,1,1,2,,https://www.bild.de/unterhaltung/royals/royals/prinzessin-hat-krebs-kates-emotionale-video-botschaft-im-wortlaut-87621502.bild.html
 2.168,Bild,22.03.2024,571,1,2,3,2,Sven Kuschel,,,3,2,1,2,2,,https://www.bild.de/bild-plus/unterhaltung/royals/leute/prinzessin-kate-was-hat-der-palast-mit-dem-klinik-skandal-zu-tun-87595746.bild.html
 2.169,Bild,22.03.2024,566,1,2,3,2,Bettina von Schimmelmann,,,3,3,2,2,1,,https://www.bild.de/bild-plus/unterhaltung/royals/leute/kranke-prinzessin-kate-jetzt-mischt-sich-der-erzbischof-in-den-klinik-skandal-ei-87610404.bild.html
+2.170,FAZ,18.03.2024,246,2,2,1,2,-,,2,2,2,1,2,2,1,https://fazarchiv.faz.net/payment/faznet?key=/1.9596415
 3.1,Bunte,22.03.2024,325,2,1,2,2,Bunte.de Redaktion,,2,1,1,1,2,2,2,https://www.bunte.de/royals/britisches-koenigshaus/prinzessin-kate-was-sie-uns-ueber-ihre-diagnose-verraten-hat-und-was-nicht.html
 3.2,Bunte,27.03.2024,590,2,1,2,2,Paulina Sternsdorf,,1,1,1,1,3,1,2,https://www.bunte.de/royals/britisches-koenigshaus/koenig-charles-und-prinzessin-kate-telefonieren-taeglich.html
 3.3,Bunte,26.03.2024,405,1,1,2,2,Leonie Kruse,,1,1,1,2,3,1,2,https://www.bunte.de/royals/britisches-koenigshaus/freund-veroeffentlicht-bisher-ungesehenes-foto-von-prinzessin-kate.html
@@ -290,4 +302,3 @@ ID,Name Zeitung,Datum,Wörteranzahl,Verhältnis Abbildung/Text,Cover,Darstellung
 3.61,FAZ,22.03.2024,261,2,1,1,2,-,,2,2,2,1,2,2,1,https://fazarchiv.faz.net/payment/faznet?key=/1.9606940
 3.62,FAZ,29.03.2024,726,2,2,2,2,Johannes Leithäuser,,2,1,2,1,1,2,1,https://fazarchiv.faz.net/payment/faznet?key=/1.9620451
 3.63,FAZ,12.04.2024,185,2,2,1,2,-,,2,2,2,1,1,2,2,https://www.faz.net/suche/
-2.170,FAZ,18.03.2024,246,2,2,1,2,-,,2,2,2,1,2,2,1,https://fazarchiv.faz.net/payment/faznet?key=/1.9596415
